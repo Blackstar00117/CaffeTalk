@@ -56,7 +56,19 @@ These third-party services may collect and process information independently. Pl
 
 We retain your information only for as long as needed to provide the app’s services or to comply with legal obligations.
 
-6. Security
+6. Account Deletion
+
+If you want your account and associated data deleted, please visit:
+- https://github.com/Blackstar00117/CaffeTalk/blob/main/caffetalk-delete-account.md
+
+This page will explain how to request deletion and the data that will be removed or retained. Generally, we delete:
+- your account profile information
+- order history and saved cart details
+- chat messages and support conversations
+
+We may keep certain records as required by law or for fraud prevention, such as transaction receipts or audit logs, for a limited retention period.
+
+7. Security
 
 We take reasonable measures to protect your information from unauthorized access, disclosure, or misuse. However, no method of transmission over the internet or electronic storage is completely secure.
 
